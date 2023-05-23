@@ -95,6 +95,9 @@ img.increase-size {
   outline: none;
   color: #fff;
 }
+#btn{
+  padding: 10px;
+}
 
 #search-icon {
   position: relative;
