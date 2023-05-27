@@ -13,7 +13,5 @@ Website -   https://dapper-platypus-015ff8.netlify.app/
 
 <img width="1396" alt="Screenshot 2023-05-23 at 10 37 01 PM" src="https://github.com/ekta-agrawal-10/Crator-Economy/assets/69886735/995eac93-6e33-457d-a9ab-1064fba00842">
 
-TRY AR FILTER - https://www.instagram.com/ar/1281448942460491/
 
-https://github.com/ekta-agrawal-10/Crator-Economy/assets/69886735/b36faea3-496c-484a-84ba-bca131bb570d
 
